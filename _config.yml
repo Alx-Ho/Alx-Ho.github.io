@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alex Ho"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : ""
+  location         : "Houston, TX"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=Qyap3iQAAAAJ&hl=en"
